@@ -1,4 +1,4 @@
-@Library('jenkins-library@master') _
+@Library('dcube-library@master') _
  
 pipeline {
     agent any
